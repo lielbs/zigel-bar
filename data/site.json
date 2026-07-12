@@ -74,20 +74,20 @@
     "text": "להזמנות ולאירועים מיוחדים מומלץ לשמור מקום מראש."
   },
   "images": {
-    "hero": "assets/zigel-courtyard-hero.png",
-    "intro": "assets/zigel-courtyard-hero.png",
-    "location": "assets/zigel-courtyard-hero.png",
+    "hero": "assets/zigel-courtyard-hero.webp",
+    "intro": "assets/zigel-courtyard-hero.webp",
+    "location": "assets/zigel-courtyard-hero.webp",
     "gallery": [
       {
-        "src": "assets/zigel-courtyard-hero.png",
+        "src": "assets/zigel-courtyard-hero.webp",
         "alt": "לילה מלא בזיגל בר"
       },
       {
-        "src": "assets/courtyard-night-enhanced.png",
+        "src": "assets/courtyard-night-enhanced.webp",
         "alt": "אור חם בחצר של זיגל"
       },
       {
-        "src": "assets/crowd-yard-enhanced.png",
+        "src": "assets/crowd-yard-enhanced.webp",
         "alt": "שולחנות בחצר של זיגל"
       }
     ]
