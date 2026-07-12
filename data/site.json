@@ -1,0 +1,95 @@
+{
+  "site": {
+    "title": "זיגל בר",
+    "eyebrow": "כורזין 5 · גבעתיים",
+    "introLabel": "המקום",
+    "introTitle": "מקום שנכנסים אליו לרגע, ונשארים בו ערב.",
+    "locationLabel": "איפה נפגשים",
+    "locationTitle": "כורזין 5\nגבעתיים"
+  },
+  "links": {
+    "booking": "https://ontopo.com/he/il/page/19664385",
+    "waze": "https://waze.com/ul/hsv8y2hrg1",
+    "instagram": "https://www.instagram.com/zigel.bar?igsh=MTJldmk5dXB6ZG5tbA=="
+  },
+  "heroTags": [
+    "לילה",
+    "חצר",
+    "בית"
+  ],
+  "events": [
+    {
+      "date": "",
+      "day": "חמישי",
+      "title": "פתיחה מחודשת",
+      "description": "שולחן בחוץ, בר פתוח, מקום שמתחיל לאט ונשאר.",
+      "featured": false
+    },
+    {
+      "date": "",
+      "day": "שישי",
+      "title": "חצר מלאה",
+      "description": "מגיעים מוקדם, שומרים מקום, נותנים ללילה לעשות את שלו.",
+      "featured": true
+    },
+    {
+      "date": "",
+      "day": "אירוע מיוחד",
+      "title": "מתעדכן קרוב",
+      "description": "כשיש משהו מיוחד בזיגל, הוא יעלה כאן ובאינסטגרם.",
+      "featured": false
+    }
+  ],
+  "menu": [
+    {
+      "image": "",
+      "category": "קוקטיילים",
+      "items": [
+        {
+          "name": "ספיישל זיגל",
+          "description": "הקוקטייל של הבית",
+          "price": ""
+        },
+        {
+          "name": "קלאסי בחצר",
+          "description": "דרינק נקי לערב ארוך",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "image": "",
+      "category": "בר",
+      "items": [
+        {
+          "name": "יין / בירה / צ׳ייסרים",
+          "description": "מתעדכן לפי הערב",
+          "price": ""
+        }
+      ]
+    }
+  ],
+  "notice": {
+    "enabled": true,
+    "text": "להזמנות ולאירועים מיוחדים מומלץ לשמור מקום מראש."
+  },
+  "images": {
+    "hero": "assets/zigel-courtyard-hero.png",
+    "intro": "assets/zigel-courtyard-hero.png",
+    "location": "assets/zigel-courtyard-hero.png",
+    "gallery": [
+      {
+        "src": "assets/zigel-courtyard-hero.png",
+        "alt": "לילה מלא בזיגל בר"
+      },
+      {
+        "src": "assets/courtyard-night-enhanced.png",
+        "alt": "אור חם בחצר של זיגל"
+      },
+      {
+        "src": "assets/crowd-yard-enhanced.png",
+        "alt": "שולחנות בחצר של זיגל"
+      }
+    ]
+  }
+}
