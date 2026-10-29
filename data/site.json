@@ -1,10 +1,12 @@
 {
   "site": {
     "title": "זיגל בר",
-    "eyebrow": "כורזין 5 · גבעתיים",
-    "introLabel": "המקום",
-    "introTitle": "מקום שנכנסים אליו לרגע, ונשארים בו ערב.",
-    "locationLabel": "איפה נפגשים",
+    "eyebrow": "כורזין 5, גבעתיים",
+    "introLabel": "הגינה",
+    "introTitle": "בר שכונתי בגבעתיים. עם גינה.",
+    "introHeading": "גינה גדולה, בר, ואנשים.",
+    "introText": "יושבים בחוץ, שותים, אוכל יוצא מהמטבח, ובחמישי ושישי יש די ג׳יי. זה כל הסיפור.",
+    "locationLabel": "מגיעים",
     "locationTitle": "כורזין 5\nגבעתיים"
   },
   "links": {
@@ -13,38 +15,32 @@
     "instagram": "https://www.instagram.com/zigel.bar?igsh=MTJldmk5dXB6ZG5tbA=="
   },
   "marquee": [
-    "זיגל בר",
-    "חצר פתוחה",
-    "קוקטיילים",
-    "כורזין 5, גבעתיים"
+    "אלכוהול",
+    "די ג׳יי",
+    "אווירה",
+    "חברים",
+    "אוכל"
   ],
   "events": [
     {
       "date": "",
-      "day": "חמישי",
-      "title": "פתיחה מחודשת",
-      "description": "שולחן בחוץ, בר פתוח, מקום שמתחיל לאט ונשאר.",
+      "day": "שלישי · רביעי",
+      "title": "ליגת האלופות על המסך",
+      "description": "גם אם אתם בכלל באים בשביל הבירה.",
       "featured": false
     },
     {
       "date": "",
-      "day": "שישי",
-      "title": "חצר מלאה",
-      "description": "מגיעים מוקדם, שומרים מקום, נותנים ללילה לעשות את שלו.",
-      "featured": true
-    },
-    {
-      "date": "",
-      "day": "אירוע מיוחד",
-      "title": "מתעדכן קרוב",
-      "description": "כשיש משהו מיוחד בזיגל, הוא יעלה כאן ובאינסטגרם.",
+      "day": "חמישי · שישי",
+      "title": "די ג׳יי",
+      "description": "מי שרוצה רוקד. מי שלא, מזמין עוד סיבוב.",
       "featured": false
     }
   ],
   "menu": [
     {
-      "image": "",
       "category": "קוקטיילים",
+      "image": "assets/zigel-cocktails.webp",
       "items": [
         {
           "name": "ספיישל זיגל",
@@ -59,8 +55,8 @@
       ]
     },
     {
-      "image": "",
       "category": "בר",
+      "image": "assets/zigel-cheers.webp",
       "items": [
         {
           "name": "יין / בירה / צ׳ייסרים",
@@ -72,24 +68,24 @@
   ],
   "notice": {
     "enabled": true,
-    "text": "להזמנות ולאירועים מיוחדים מומלץ לשמור מקום מראש."
+    "text": "אירועי צהריים בשישי ושבת. לפרטים שלחו הודעה באינסטגרם."
   },
   "images": {
     "hero": "assets/zigel-courtyard-hero.webp",
-    "intro": "assets/zigel-courtyard-hero.webp",
+    "intro": "assets/zigel-logo-large.webp",
     "location": "assets/zigel-courtyard-hero.webp",
     "gallery": [
       {
-        "src": "assets/zigel-courtyard-hero.webp",
-        "alt": "לילה מלא בזיגל בר"
+        "src": "assets/zigel-lights-wall.webp",
+        "alt": "קיר מכוסה צמחייה ושרשראות אור, ואנשים יושבים לידו בגינה של זיגל"
       },
       {
-        "src": "assets/courtyard-night-enhanced.webp",
-        "alt": "אור חם בחצר של זיגל"
+        "src": "assets/zigel-plate.webp",
+        "alt": "צלחת מהמטבח עם לחם קלוי, ולידה קוקטייל עם נענע"
       },
       {
-        "src": "assets/crowd-yard-enhanced.webp",
-        "alt": "שולחנות בחצר של זיגל"
+        "src": "assets/zigel-courtyard-bike.webp",
+        "alt": "אופניים ישנים על רקע אורות חמים בגינה"
       }
     ]
   }
